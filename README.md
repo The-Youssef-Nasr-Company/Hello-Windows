@@ -1,8 +1,8 @@
 # 1. Hello Windows
 Hello Windows is the remake of NCommander's version of Hello Windows-this time with the Segoe UI font family.
-# 1.1. Compatibility
+## 1.1. Compatibility
 This .NET desktop application is compatible with:
-# 1.1.1. Windows
+### 1.1.1. Windows
   * Windows 10 and;
   * Windows 11.
 ## 1.2. Development
